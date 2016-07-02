@@ -1,8 +1,4 @@
 # it21_lora_gateway
-Courtesy: www.cooking-hacks.com
-	https://github.com/hdoukas/lora_openiot
-
-
 Data communication setup between Arduino LoRa Module and Raspberry pi LoRa module 
 
 1. Devices:
