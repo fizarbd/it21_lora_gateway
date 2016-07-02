@@ -1,0 +1,3 @@
+sudo ./cooking.sh my_example.cpp
+
+sudo ./my_example.cpp_exe
